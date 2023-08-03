@@ -1,6 +1,6 @@
-# homecredit
+# Home Credit
 
-Homecredit loan default analysis 
+Home Credit loan default analysis 
 
 This notebook will walk you through the data available and how that data is used to train a model which Home Credit will then use to predict if a future loan applicant will default on their loan or not.
 
